@@ -70,6 +70,7 @@ The material covers SCCM architecture, site deployment, client management, inven
 📦 Software Deployment
 
 🎯 Intermediate Skills
+
 🔄 Software Updates
 💿 Operating System Deployment
 🌐 PXE / DHCP
@@ -79,6 +80,7 @@ The material covers SCCM architecture, site deployment, client management, inven
 📈 Monitoring & Troubleshooting
 
 🎯 Advanced Skills
+
 ⚡ Power Management
 🖥️ Remote Control
 💾 Backup & Recovery
