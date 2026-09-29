@@ -85,6 +85,7 @@ The material covers SCCM architecture, site deployment, client management, inven
 📦 Content Distribution
 
 🛣️ Learning Path
+
                  🚀 SCCM LEARNING PATH
                          │
                          ▼
@@ -118,6 +119,7 @@ The material covers SCCM architecture, site deployment, client management, inven
                   🎯 SCCM SKILLS
 
 💻 Skills Roadmap
+
 🧩 SCCM Fundamentals
         ↓
 🏗️ SCCM Architecture
@@ -157,6 +159,7 @@ The material covers SCCM architecture, site deployment, client management, inven
 03-Advanced
 
 🏆 Final Goal
+
 🟢 Beginner
      ↓
 🟡 Intermediate
