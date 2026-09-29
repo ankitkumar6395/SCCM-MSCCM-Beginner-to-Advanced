@@ -57,6 +57,9 @@ The material covers SCCM architecture, site deployment, client management, inven
 🔴 Advanced
      ↓
 🎯 SCCM / MECM Administration Skills
+
+🎯 Beginner Skills
+
 🧩 SCCM Fundamentals
 🏗️ SCCM Architecture
 🖥️ Client Management
