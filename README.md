@@ -50,6 +50,13 @@ The material covers SCCM architecture, site deployment, client management, inven
 │
 └── 📖 README.md
 
+🟢 Beginner
+     ↓
+🟡 Intermediate
+     ↓
+🔴 Advanced
+     ↓
+🎯 SCCM / MECM Administration Skills
 🧩 SCCM Fundamentals
 🏗️ SCCM Architecture
 🖥️ Client Management
@@ -59,6 +66,7 @@ The material covers SCCM architecture, site deployment, client management, inven
 📊 Inventory
 📦 Software Deployment
 
+🎯 Intermediate Skills
 🔄 Software Updates
 💿 Operating System Deployment
 🌐 PXE / DHCP
@@ -67,6 +75,7 @@ The material covers SCCM architecture, site deployment, client management, inven
 📱 Mobile Device Management
 📈 Monitoring & Troubleshooting
 
+🎯 Advanced Skills
 ⚡ Power Management
 🖥️ Remote Control
 💾 Backup & Recovery
@@ -75,6 +84,7 @@ The material covers SCCM architecture, site deployment, client management, inven
 🌐 Secondary Sites
 📦 Content Distribution
 
+🛣️ Learning Path
                  🚀 SCCM LEARNING PATH
                          │
                          ▼
@@ -107,6 +117,7 @@ The material covers SCCM architecture, site deployment, client management, inven
                          ▼
                   🎯 SCCM SKILLS
 
+💻 Skills Roadmap
 🧩 SCCM Fundamentals
         ↓
 🏗️ SCCM Architecture
@@ -145,6 +156,7 @@ The material covers SCCM architecture, site deployment, client management, inven
 
 03-Advanced
 
+🏆 Final Goal
 🟢 Beginner
      ↓
 🟡 Intermediate
